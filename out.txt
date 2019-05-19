@@ -1,0 +1,43 @@
+Started @  2017-09-01 13:53:25.491821
+['2017-09-01 13:55:00']
+No alarms for another 0:01:34.478638(hh:mm:ss.ms)
+Taking a nap
+Deleting alarm This! from ['2017-09-01 13:55:00']
+Deleted []
+Closing the file...
+Closed @ 2017-09-01 13:55:01.036653
+Started @  2017-09-02 08:42:56.842026
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-02 08:42:56.853472
+Started @  2017-09-02 10:45:09.955183
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-02 10:45:09.966473
+Started @  2017-09-02 15:57:02.990611
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-02 15:57:03.001827
+Started @  2017-09-03 09:53:18.490096
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-03 09:53:18.501502
+Started @  2017-09-03 16:25:06.130712
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-03 16:25:06.352907
+Started @  2017-09-03 22:39:55.425899
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-03 22:39:55.482923
+Started @  2017-09-04 10:41:36.428124
+[]
+No alarm is set yet. Exiting Program!
+Closing the file...
+Closed @ 2017-09-04 10:41:36.439620
