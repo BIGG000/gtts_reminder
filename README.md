@@ -1,6 +1,5 @@
 # gtts_reminder
 REMINDER
-alarmPop
 Simple Alarm/ToDo/Reminder App using native notify-send library and python libraries!
 
 Dependencies
